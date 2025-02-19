@@ -6,6 +6,21 @@
     "https://i.postimg.cc/C1rL2YVw/Whats-App-Image-2025-02-19-at-18-09-52-304455ba.jpg",
     "https://i.postimg.cc/Tw33Q1Fk/Whats-App-Image-2025-02-19-at-18-09-52-47e40183.jpg",
     "https://i.postimg.cc/X7RX3VBJ/Whats-App-Image-2025-02-19-at-18-09-52-4b3473dc.jpg",
+    "https://telegra.ph/file/499ee02976eb2ba0496d2.jpg",
+
+"https://telegra.ph/file/2ac40781e69f9956c1c0f.jpg",
+
+"https://telegra.ph/file/e3949e740ea22ea9fc551.jpg",
+
+"https://telegra.ph/file/a82f56a15d64073fa2c43.jpg",
+
+"https://telegra.ph/file/e8a4071eeda0f2560f119.jpg",
+
+"https://telegra.ph/file/88cf314b0d89720650076.jpg",
+
+"https://telegra.ph/file/47f69d1772a010bf91311.jpg",
+
+"https://telegra.ph/file/0176769c56c62b21a1a96.jpg",
     "https://i.postimg.cc/Fzfs5q93/Whats-App-Image-2025-02-19-at-18-09-52-ffbe4f30.jpg",
     "https://i.postimg.cc/prgV2ZT7/Whats-App-Image-2025-02-19-at-18-09-53-0de49ad9.jpg",
     "https://i.postimg.cc/qBYvXkLL/Whats-App-Image-2025-02-19-at-18-09-53-4038b543.jpg",
